@@ -1,0 +1,8 @@
+{
+     "customer_id" : "1",
+    "first_name" : "ravi",
+    "last_name" : "kumar",
+    "phone_number" :"9876543210",
+    "email_id" : "123@email.com",
+    "password" : "password"
+}
